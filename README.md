@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Rickson Portela de Morais, tenho 29 anos e sou natural de Recife, Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Tenho grande interesse em aprender constantemente, buscando evoluir na área e contribuir de forma prática em projetos e soluções tecnológicas.
+Me chamo Rickson Portela de Morais, sou natural de Recife, Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Tenho grande interesse em aprender constantemente, buscando evoluir na área e contribuir de forma prática em projetos e soluções tecnológicas.
 
 ---
 
