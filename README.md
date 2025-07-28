@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Seja muito Bem-vindo ao meu perfil! ✌️😁
+Seja muito Bem-vindo ao meu perfil! ✌️😁<br>
 Me chamo Rickson Portela, sou natural de Recife, Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas e sou muito apaixonado por tecnologia. Venho aprendendo constantemente, meu foco é ser um Desenvolvedor FullStack.
 
 
