@@ -1,10 +1,8 @@
 # 🧑🏻‍💻 Rickson Portela
 
-**`Desenvolvedor Back-end`**
+**`Data Science`**
 
-Bem-vindo(a)! Este é o meu espaço para compartilhar projetos em desenvolvimento nas áreas de back-end, front-end!✌️😁<br>
-Me chamo Rickson Portela, sou natural de Recife, Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas e sou muito apaixonado por tecnologia. Venho aprendendo constantemente, meu foco é ser um Desenvolvedor FullStack.
-
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Ciência de Dados. Trabalho com Python e SQL para extração, tratamento e análise de dados, aplicando estatística e modelagem para geração de insights. Interesse em Machine Learning, exploração de dados (EDA) e construção de soluções orientadas a dados.
 
 ---
 
