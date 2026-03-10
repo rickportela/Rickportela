@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Rickson Portela
 
-**`Data Science`**
+**`Data Engineer`**
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em Ciência de Dados. Trabalho com Python e SQL para extração, tratamento e análise de dados, aplicando estatística e modelagem para geração de insights. Interesse em Machine Learning, exploração de dados (EDA) e construção de soluções orientadas a dados.
 
