@@ -2,7 +2,7 @@
 
 **`Data Engineer`**
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Ciência de Dados. Trabalho com Python e SQL para extração, tratamento e análise de dados, aplicando estatística e modelagem para geração de insights. Interesse em Machine Learning, exploração de dados (EDA) e construção de soluções orientadas a dados.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados. Atuo com Python e SQL na construção de pipelines de dados, realizando extração, transformação e carga (ETL), limpeza e processamento de grandes volumes de dados. Tenho interesse em arquitetura de dados, processamento distribuído, modelagem de dados e construção de soluções escaláveis para suportar análises e aplicações orientadas a dados.
 
 ---
 
